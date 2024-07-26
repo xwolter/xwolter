@@ -1,7 +1,5 @@
 # Hey, I'm Wolter! 👋
 
-![Profile views](https://gpvc.arturio.dev/Wolter)
-
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-Krystian@siteify.eu-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@siteify.eu)
 
