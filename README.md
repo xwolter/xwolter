@@ -1,9 +1,7 @@
-# Hey, I'm Wolter! 👋
+# Hi!
 
-## 📬 Contact Me
-[![Email](https://img.shields.io/badge/Email-Krystian@siteify.eu-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@siteify.eu)
+# [![Email](https://img.shields.io/badge/Email-Krystian@siteify.eu-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@siteify.eu)
 
-## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -18,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-## 📊 GitHub Stats
+## 
 ![Wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolter&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolter&theme=dark&layout=compact)
