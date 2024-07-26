@@ -1,7 +1,5 @@
 # Hey, I'm Wolter! 👋
 
-![Profile views](https://gpvc.arturio.dev/Wolter)
-
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-wolter.biznes@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:wolter.biznes@gmail.com)
 
