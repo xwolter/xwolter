@@ -24,6 +24,3 @@
 ![Wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolter&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolter&theme=dark&layout=compact)
-
-## 🔗 Additional Resources
-[![Profile views](https://gpvc.arturio.dev/Wolter)]
