@@ -1,9 +1,10 @@
-# Hey, I'm [Your Name]! 👋
+# Hey, I'm Wolter! 👋
 
-![Profile views](https://gpvc.arturio.dev/[YourUsername])
+![Profile views](https://gpvc.arturio.dev/Wolter)
 
-## 🌐 Social Media
-[![Email](https://img.shields.io/badge/Email-hello@kobq.pl-blue)](mailto:hello@kobq.pl)
+## 📬 Contact Me
+[![Email](https://img.shields.io/badge/Email-hello@kobq.pl-blue?style=for-the-badge&logo=gmail)](mailto:hello@kobq.pl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Wolter)
 
 ## 🛠 Tech Stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -23,9 +24,9 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=dark&layout=compact)
+![Wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolter&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolter&theme=dark&layout=compact)
 
 ## 🔗 Additional Resources
-[![Profile views](https://gpvc.arturio.dev/[YourUsername])]
+[![Profile views](https://gpvc.arturio.dev/Wolter)]
