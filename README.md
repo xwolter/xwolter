@@ -1,11 +1,10 @@
-<div align="center">
+
 # Hi!
-  <br>
 I'm a passionate **Developer** with strong experience in both **frontend** and **backend** technologies.  
 I enjoy building modern, scalable web applications using **React**, **Angular**, **Next.js**, **.NET**, and **C#**.
-<br>
+
 # [![Email](https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@netvio.co)
-<br>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -23,7 +22,7 @@ I enjoy building modern, scalable web applications using **React**, **Angular**,
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 
-
+<div align="center">
 ![Wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolter&theme=dark)
