@@ -9,14 +9,13 @@
   </div>
 
 #
-  <div>
+
+</div>
+<div>
     <a href="mailto:Krystian@netvio.co">
       <img src="https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
   </div>
-
-</div>
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
