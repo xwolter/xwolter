@@ -21,6 +21,12 @@ I enjoy building modern, scalable web applications using **React**, **Angular**,
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 
+<div align="center">
+
 ![Wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark)
+<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolter&theme=dark)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolter&theme=dark&layout=compact)
+
+</div>
