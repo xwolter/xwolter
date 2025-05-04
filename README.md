@@ -11,7 +11,7 @@
   </div>
 
   <!-- Email badge -->
-  <div style="text-align: right;">
+  <div style="align: right;">
     <a href="mailto:Krystian@netvio.co">
       <img src="https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail" alt="Email Badge">
     </a>
