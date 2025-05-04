@@ -8,7 +8,7 @@
     </p>
   </div>
 
-  <!-- E-mail badge po prawej -->
+#
   <div>
     <a href="mailto:wolter.biznes@gmail.com">
       <img src="https://img.shields.io/badge/Email-wolter.biznes@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge">
