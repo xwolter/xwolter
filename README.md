@@ -1,3 +1,4 @@
+<div align="center">
 # Hi!
 I'm a passionate **Developer** with strong experience in both **frontend** and **backend** technologies.  
 I enjoy building modern, scalable web applications using **React**, **Angular**, **Next.js**, **.NET**, and **C#**.
@@ -21,7 +22,6 @@ I enjoy building modern, scalable web applications using **React**, **Angular**,
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 
-<div align="center">
 
 ![Wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark)
 <br>
