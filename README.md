@@ -1,9 +1,11 @@
-
+<div align="block left">
+  
 # Hi!
 I'm a passionate **Developer** with strong experience in both **frontend** and **backend** technologies.  
 I enjoy building modern, scalable web applications using **React**, **Angular**, **Next.js**, **.NET**, and **C#**.
 
-<div align="right">
+</div>
+<div align="block right">
 
 # [![Email](https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@netvio.co)
 
