@@ -1,15 +1,22 @@
-<div align="block left">
-  
-# Hi!
-I'm a passionate **Developer** with strong experience in both **frontend** and **backend** technologies.  
-I enjoy building modern, scalable web applications using **React**, **Angular**, **Next.js**, **.NET**, and **C#**.
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <!-- Tekst po lewej -->
+  <div>
+    <h1>Hi! 👋</h1>
+    <p>I'm a passionate <strong>Developer</strong> with strong experience in both <strong>frontend</strong> and <strong>backend</strong> technologies.<br>
+    I enjoy building modern, scalable web applications using <strong>React</strong>, <strong>Angular</strong>, <strong>Next.js</strong>, <strong>.NET</strong>, and <strong>C#</strong>.
+    </p>
+  </div>
+
+  <!-- E-mail badge po prawej -->
+  <div>
+    <a href="mailto:Krystian@netvio.co">
+      <img src="https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail" alt="Email Badge">
+    </a>
+  </div>
 
 </div>
-<div align="block right">
 
-# [![Email](https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@netvio.co)
-
-</div>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
