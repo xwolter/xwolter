@@ -3,7 +3,11 @@
 I'm a passionate **Developer** with strong experience in both **frontend** and **backend** technologies.  
 I enjoy building modern, scalable web applications using **React**, **Angular**, **Next.js**, **.NET**, and **C#**.
 
+<div align="right">
+
 # [![Email](https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail)](mailto:Krystian@netvio.co)
+
+</div>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
