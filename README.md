@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <!-- Tekst po lewej -->
   <div>
+    <br>
     <h1>Hi! 👋</h1>
     <p>I'm a passionate <strong>Developer</strong> with strong experience in both <strong>frontend</strong> and <strong>backend</strong> technologies.<br>
     I enjoy building modern, scalable web applications using <strong>React</strong>, <strong>Angular</strong>, <strong>Next.js</strong>, <strong>.NET</strong>, and <strong>C#</strong>.
