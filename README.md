@@ -1,61 +1,75 @@
-<!-- GŁÓWNY BLOK: nagłówek i email -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Krystian!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-  <!-- Tekst powitalny -->
-  <div style="max-width: 70%;">
-    <h1>Hi! 👋</h1>
-    <p>
-      I'm a passionate <strong>Developer</strong> with strong experience in both <strong>frontend</strong> and <strong>backend</strong> technologies.<br>
-      I enjoy building modern, scalable web applications using <strong>React</strong>, <strong>Angular</strong>, <strong>Next.js</strong>, <strong>.NET</strong>, and <strong>C#</strong>.
-    </p>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;.NET+%26+C%23+Architect;Building+Modern+Web+Experiences" alt="Typing SVG" />
 
-  <!-- Email badge -->
-  <div style="text-align: right;">
-    <a href="mailto:Krystian@netvio.co">
-      <img src="https://img.shields.io/badge/Email-Krystian@netvio.co-blue?style=for-the-badge&logo=gmail" alt="Email Badge">
+  <p align="center">
+    <a href="mailto:krystian@netvio.co">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
     </a>
-  </div>
+  </p>
 
+  <br />
 </div>
 
----
+## 🚀 O mnie / About Me
 
-<!-- TECHNOLOGIE -->
-<h3>🛠️ Technologies I Use</h3>
+I'm a passionate **Software Developer** dedicated to building high-performance, scalable web applications. I bridge the gap between elegant frontend interfaces and robust backend architectures, focusing on writing clean code and delivering exceptional user experiences. 
+
+- 🔭 I’m currently working on **Advanced Web Solutions & Modern Architectures**
+- 🌱 I’m currently expanding my knowledge in **Cloud Services & AI Integrations**
+- 💡 I love exploring new technologies and pushing the boundaries of web development.
+- 📫 How to reach me: **[krystian@netvio.co](mailto:krystian@netvio.co)**
+
+<br />
+
+## 💻 Tech Stack & Tools
 
 <div align="center">
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
 
-  <!-- Badge grid -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <h3>Backend & Database</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  </p>
 
+  <h3>Server & DevOps</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
 </div>
 
----
+<br />
 
-<!-- STATYSTYKI -->
+## 📊 GitHub Analytics
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xwolter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xwolter&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6" alt="GitHub Streak" />
+</div>
 
-  <h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwolter&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Wolter&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wolter&theme=dark" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolter&theme=dark&layout=compact" alt="Top Langs" />
+<br />
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
