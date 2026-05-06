@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Krystian!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;.NET+%26+C%23+Architect;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;AI+Integration+%26+Automation+Enthusiast;Architecting+Modern+Web+Experiences;C%23,+Node.js,+Python+%26+Java" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="mailto:krystian@netvio.co">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
-    </a>
+  <p align="center" style="font-size: 16px; margin-top: 15px;">
+    <b>Email:</b> <a href="mailto:wolter.biznes@gmail.com" style="color: #7AA2F7; text-decoration: none;">wolter.biznes@gmail.com</a>
   </p>
 
   <br />
@@ -14,12 +12,12 @@
 
 ## 🚀 O mnie / About Me
 
-I'm a passionate **Software Developer** dedicated to building high-performance, scalable web applications. I bridge the gap between elegant frontend interfaces and robust backend architectures, focusing on writing clean code and delivering exceptional user experiences. 
+I'm a passionate **Software Developer** dedicated to building high-performance, scalable web applications and integrating modern AI solutions. I bridge the gap between elegant frontend interfaces and robust backend architectures. Recently, I've been heavily focused on leveraging Artificial Intelligence to automate workflows, optimize business logic, and build smart applications.
 
-- 🔭 I’m currently working on **Advanced Web Solutions & Modern Architectures**
-- 🌱 I’m currently expanding my knowledge in **Cloud Services & AI Integrations**
-- 💡 I love exploring new technologies and pushing the boundaries of web development.
-- 📫 How to reach me: **[krystian@netvio.co](mailto:krystian@netvio.co)**
+- 🔭 I’m currently working on **Advanced Web Solutions & AI-Powered Integrations**
+- 🌱 I’m currently exploring **Large Language Models (LLMs), Machine Learning, and Cloud Architectures**
+- 💡 I love solving complex problems using **C#, Node.js, Python, and Java** to build robust systems.
+- 📫 How to reach me: **[wolter.biznes@gmail.com](mailto:wolter.biznes@gmail.com)**
 
 <br />
 
@@ -38,17 +36,21 @@ I'm a passionate **Software Developer** dedicated to building high-performance, 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 
-  <h3>Backend & Database</h3>
+  <h3>Backend & Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   </p>
 
-  <h3>Server & DevOps</h3>
+  <h3>Database, DevOps & AI</h3>
   <p>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
