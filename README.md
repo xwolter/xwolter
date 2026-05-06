@@ -3,25 +3,22 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;AI+Integration+%26+Automation+Enthusiast;Architecting+Modern+Web+Experiences;C%23,+Node.js,+Python+%26+Java" alt="Typing SVG" />
 
-  <p align="center" style="font-size: 16px; margin-top: 15px;">
-    <b>Email:</b> <a href="mailto:wolter.biznes@gmail.com" style="color: #7AA2F7; text-decoration: none;">wolter.biznes@gmail.com</a>
-  </p>
 
   <br />
 </div>
 
-## 🚀 O mnie / About Me
+## About Me
 
 I'm a passionate **Software Developer** dedicated to building high-performance, scalable web applications and integrating modern AI solutions. I bridge the gap between elegant frontend interfaces and robust backend architectures. Recently, I've been heavily focused on leveraging Artificial Intelligence to automate workflows, optimize business logic, and build smart applications.
 
-- 🔭 I’m currently working on **Advanced Web Solutions & AI-Powered Integrations**
-- 🌱 I’m currently exploring **Large Language Models (LLMs), Machine Learning, and Cloud Architectures**
-- 💡 I love solving complex problems using **C#, Node.js, Python, and Java** to build robust systems.
-- 📫 How to reach me: **[wolter.biznes@gmail.com](mailto:wolter.biznes@gmail.com)**
+- I’m currently working on **Advanced Web Solutions & AI-Powered Integrations**
+- I’m currently exploring **Large Language Models (LLMs), Machine Learning, and Cloud Architectures**
+- I love solving complex problems using **C#, Node.js, Python, and Java** to build robust systems.
+- How to reach me: **[wolter.biznes@gmail.com](mailto:wolter.biznes@gmail.com)**
 
 <br />
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   <h3>Frontend</h3>
@@ -55,19 +52,6 @@ I'm a passionate **Software Developer** dedicated to building high-performance, 
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-</div>
-
-<br />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xwolter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xwolter&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwolter&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
 </div>
 
 <br />
