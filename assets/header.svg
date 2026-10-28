@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Krystian Wolter - Software Developer">
+  <defs>
+    <radialGradient id="g1" gradientUnits="userSpaceOnUse" cx="980" cy="10" r="560">
+      <stop offset="0" stop-color="#3E91FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#3E91FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" gradientUnits="userSpaceOnUse" cx="60" cy="380" r="460">
+      <stop offset="0" stop-color="#7A6CF0" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7A6CF0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#9CC8FF"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity="0.06"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="340" rx="28"/></clipPath>
+    <style>
+      .t { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .chip { fill: #23262D; stroke: #FFFFFF; stroke-opacity: .08; }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; }
+      .float { animation: float 6s ease-in-out infinite; }
+      .ring { animation: ring 30s linear infinite; transform-origin: 1010px 170px; }
+      @keyframes pulse { 0%, 100% { opacity: .7; } 50% { opacity: 1; } }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+      @keyframes ring { to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0E0F13"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#g1)"/>
+    <rect width="1200" height="340" fill="url(#g2)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <!-- tekst -->
+  <text x="72" y="96" class="t" font-size="18" font-weight="600" fill="#3E91FF" letter-spacing="3">HI, I'M</text>
+  <text x="70" y="168" class="t" font-size="68" font-weight="700" fill="url(#name)" letter-spacing="-1.5">Krystian Wolter</text>
+  <text x="72" y="212" class="t" font-size="22" fill="#8B90A0">Software Developer · Android, Windows &amp; Web · AI integrations</text>
+
+  <g class="t" font-size="15" font-weight="600" fill="#F2F3F5">
+    <rect class="chip" x="72" y="244" width="118" height="38" rx="19"/>
+    <circle cx="94" cy="263" r="5" fill="#3DDC84"/>
+    <text x="108" y="268">Kotlin</text>
+    <rect class="chip" x="200" y="244" width="150" height="38" rx="19"/>
+    <circle cx="222" cy="263" r="5" fill="#3E91FF"/>
+    <text x="236" y="268">TypeScript</text>
+    <rect class="chip" x="360" y="244" width="96" height="38" rx="19"/>
+    <circle cx="382" cy="263" r="5" fill="#A179DC"/>
+    <text x="396" y="268">C#</text>
+    <rect class="chip" x="466" y="244" width="124" height="38" rx="19"/>
+    <circle cx="488" cy="263" r="5" fill="#F7C948"/>
+    <text x="502" y="268">Python</text>
+    <rect class="chip" x="600" y="244" width="114" height="38" rx="19"/>
+    <circle cx="622" cy="263" r="5" fill="#ED8B00"/>
+    <text x="636" y="268">Java</text>
+  </g>
+
+  <!-- znak: tarcza z pierścieniem kodu 2FA -->
+  <g class="ring" opacity="0.35">
+    <circle cx="1010" cy="170" r="118" fill="none" stroke="#3E91FF" stroke-width="2" stroke-dasharray="4 14" stroke-linecap="round"/>
+  </g>
+  <circle cx="1010" cy="170" r="92" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="10"/>
+  <circle class="pulse" cx="1010" cy="170" r="92" fill="none" stroke="#3E91FF" stroke-width="10" stroke-linecap="round" stroke-dasharray="578" stroke-dashoffset="150" transform="rotate(-90 1010 170)"/>
+  <g class="float">
+    <rect x="958" y="118" width="104" height="104" rx="30" fill="#3E91FF"/>
+    <rect x="958" y="118" width="104" height="104" rx="30" fill="#FFFFFF" opacity="0.08"/>
+    <path d="M1010 136 l28 11 v20 c0 17 -12 31 -28 35 c-16 -4 -28 -18 -28 -35 v-20 z" fill="#FFFFFF"/>
+    <circle cx="1010" cy="163" r="7" fill="#3E91FF"/>
+    <path d="M1007 168 h6 l2 14 h-10 z" fill="#3E91FF"/>
+  </g>
+</svg>
