@@ -65,7 +65,7 @@ I build apps people actually keep on their phones: **Android apps in Kotlin and 
   </tr>
   <tr>
     <td colspan="2">
-      <b><a href="https://github.com/xwolter/pogoda">SkyView</a></b> · weather app with hourly and multi-day forecasts, a weather map and city search · <a href="https://pogoda-phi.vercel.app">live demo</a>
+      <b><a href="https://github.com/xwolter/pogoda">SkyView</a></b> · weather app with hourly and multi-day forecasts, a weather map and city search
       <br>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
